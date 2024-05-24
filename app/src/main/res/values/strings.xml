@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteDatabaseDemo</string>
+    <string name="add_record">Add Record</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="edit_record">Edit Record</string>
+    <string name="view_all_records">View All Records</string>
+    <string name="view_record">View Record</string>
+    <string name="student_id">Student ID</string>
+    <string name="name">Name</string>
+    <string name="semestral_grade">Semestral Grade</string>
+    <string name="textview">TextView</string>
+    <string name="sqlite_demo">SQLite Demo</string>
+</resources>
